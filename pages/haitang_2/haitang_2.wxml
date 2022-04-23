@@ -1,0 +1,9 @@
+<view class="background_card" >
+  <view><view class="title_text">老台门鲜包</view></view>
+  <view class="dishes_name">
+    <view class="big_text">网红酸奶大麻花</view> <view class="big_text">网红香蕉大麻花</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥5元/份</view> <view>¥5元/份</view>
+  </view>
+</view>

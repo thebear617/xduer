@@ -1,0 +1,8 @@
+<view class="weizhi">
+  <image  mode="scaleToFill" class="picture" src="../../images/xduer/xduer1.jpeg"></image>
+  <view class="text" >版本号v1.0.0</view>
+  <view class="text">如有任何问题和反馈请联系我们</view>
+  <view  class="text">微信号：doin020617b</view>
+
+
+</view>

@@ -1,0 +1,400 @@
+<view class="background_card" >
+  <view><view class="title_text">营养粥（香甜可口 任意搭配）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">最佳搭配：绿豆粥＋西米露或奶茶      红豆八宝粥+西米露或奶茶      黑米粥＋西米露或奶茶      红枣燕麦粥＋西米露    或奶茶水果羹+西米露或奶茶      南瓜小米粥+西米露或奶茶      红薯粥＋西米露或奶茶</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>大杯2元      小杯1.5元</view> 
+  </view>
+</view>
+<view class="background_card" >
+  <view><view class="title_text">萌锅蒸饭</view></view>
+  <view class="dishes_name">        
+    <view class="big_text">萌锅风味茄子</view> <view class="big_text">萌锅年糕里脊</view> <view class="big_text">萌锅香菇滑鸡</view> <view class="big_text">萌锅鸡腿肉茄子</view> <view class="big_text">萌锅黄金鸡柳</view> <view class="big_text">萌锅照烧鸡腿</view> <view class="big_text">萌锅冷面里脊</view> <view class="big_text">萌锅金鼎肥牛</view> <view class="big_text">萌锅咖喱鸡腿肉</view> <view class="big_text">萌锅卤肉茄子</view> <view class="big_text">萌锅蓝莓鸡扒</view> <view class="big_text">萌锅金牌口水鸡</view> <view class="big_text">萌锅大盘鸡</view> <view class="big_text">萌锅辣子鸡</view> <view class="big_text">萌锅天妇罗炸鸡</view> <view class="big_text">萌锅招牌卤肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>9元</view> <view>10元</view> <view>11元</view> <view>11元</view> <view>12元</view> <view>12元</view> <view>12元</view> <view>12元</view> <view>12元</view> <view>13元</view> <view>13元</view> <view>14元</view> <view>14元</view> <view>14元</view> <view>14元</view> <view>15元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">Show轻食</view></view>
+  <view class="dishes_name">
+    <view class="big_text">焙煎鸡排</view> <view class="big_text">时蔬沙拉</view> <view class="big_text">爽口火鸡面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>5元</view> <view>6元</view> <view>6元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">西北拉面（另加：煎蛋1.5元 烤肠1.5元）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">牛肉拉面</view> <view class="big_text">香辣肉片面</view> <view class="big_text">香菇肉丝面</view> <view class="big_text">酸菜肉丝面</view> <view class="big_text">清汤拉面</view> <view class="big_text">葱油牛肉凉面</view> <view class="big_text">瘦肉干拌面</view> <view class="big_text">土豆鸡块干拌面</view> <view class="big_text">青椒肉丝干拌面</view> <view class="big_text">酸豆角肉沫干拌面</view> <view class="big_text">特色炸酱面</view> <view class="big_text">西红柿鸡蛋木耳面</view> <view class="big_text">自选二合一干拌面</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>8元</view> <view>8元</view> <view>7元</view> <view>7元</view> <view>5元</view> <view>8元</view> <view>8元</view> <view>8元</view> <view>8元</view> <view>8元</view> <view>8元</view> <view>7元</view> <view>9元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">手工铡刀面（面条伴侣：卤鸡蛋1.5元 卤豆皮1元 卤炸豆腐1元）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">肉臊子干拌面</view> <view class="big_text">老北京炸酱面</view> <view class="big_text">大盘鸡拌面</view> <view class="big_text">酸豆角肉丝拌面</view> <view class="big_text">青椒肉丝干拌面</view> <view class="big_text">素臊子干拌面</view> <view class="big_text">剁椒干拌面</view> <view class="big_text">鸡汤面</view> <view class="big_text">什锦臊子面</view> <view class="big_text">酸菜肉丝面</view> <view class="big_text">西红柿鸡蛋面</view> <view class="big_text">鲜汤素面</view> <view class="big_text">鸡丝凉面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>9元</view> <view>8元</view> <view>8元</view> <view>8元</view> <view>8元</view> <view>7元</view> <view>7元</view> <view>8元</view> <view>7元</view> <view>7元</view> <view>6元</view> <view>5元</view> <view>7元</view>
+  </view>
+</view>
+
+
+<view class="background_card" >
+  <view><view class="title_text">方便面（加：鸡蛋1.5元 火腿1.5元）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">红烧牛肉面</view> <view class="big_text">西红柿牛腩面</view> <view class="big_text">老坛酸菜面</view> <view class="big_text">麻辣牛肉面</view> <view class="big_text">香菇炖鸡面</view> <view class="big_text">香锅牛肉面</view> <view class="big_text">油泼辣子酸汤面</view> <view class="big_text">酸辣牛肉面</view> <view class="big_text">牛筋面</view> <view class="big_text">饸饹面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>4.5元</view> <view>4.5元</view> <view>4.5元</view> <view>4.5元</view> <view>4.5元</view> <view>4.5元</view> <view>4.5元</view> <view>4.5元</view> <view>5元</view> <view>6元</view>
+  </view>
+</view>
+
+
+<view class="background_card" >
+  <view><view class="title_text">锡纸美食（加火腿1.5元 加鸡蛋1.5元 加黑椒鸡排 4元）</view></view>
+  <view class="dishes_name">
+   <view class="big_text">火腿鸡蛋</view> <view class="big_text">牛丸炒饭</view> <view class="big_text">木耳肉片</view> <view class="big_text">香菇里脊</view>
+   <view class="big_text">孜然肉片</view> <view class="big_text">黑椒鸡柳</view> <view class="big_text">黑椒里脊</view> <view class="big_text">玉米鱼丸</view> <view class="big_text">玉米热狗</view> <view class="big_text">玉米培根</view> <view class="big_text">玉米鸡柳</view>
+   <view class="big_text">熏肉炒饭</view> <view class="big_text">金针菇里脊</view> <view class="big_text">金针菇肉卷</view> <view class="big_text">鱼丸炒饭</view> <view class="big_text">素三鲜</view> <view class="big_text">辣白菜里脊</view> <view class="big_text">辣白菜肉卷</view> <view class="big_text">辣白菜鸡柳</view> <view class="big_text">玉米烤肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>8元</view> <view>8元</view> <view>10元</view> <view>10元</view> <view>9元</view> <view>10元</view> <view>10元</view> <view>8元</view> <view>8元</view> <view>10元</view> <view>10元</view> <view>10元</view> <view>10元</view> <view>11元</view> <view>8元</view> <view>10元</view> <view>10元</view> <view>11元</view> <view>10元</view> <view>11元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">掉渣饼</view></view>
+  <view class="dishes_name">
+    <view class="big_text">素菜</view> <view class="big_text">培根</view> <view class="big_text">烤肠</view> <view class="big_text">鸡蛋</view> <view class="big_text">火腿片</view> <view class="big_text">千页豆腐</view> <view class="big_text">鱼豆腐</view> <view class="big_text">骨肉相连</view> <view class="big_text">里脊肉</view> <view class="big_text">面筋</view> <view class="big_text">掉渣饼</view> <view class="big_text">金丝鸡柳棒</view> <view class="big_text">黑椒鸡排</view>
+  </view>
+  <view class=".dishes_price">
+    <view>1元</view> <view>1.5元</view> <view>1.5元</view> <view>1.5元</view> <view>1.5元</view> <view>1.5元</view> <view>1.5元</view> <view>2元</view> <view>2元</view> <view>2元</view> <view>3元</view> <view>3元</view> <view>4元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">5.8元暖心·早餐</view></view>
+  <view class="dishes_name">
+    <view class="big_text">粥类（二选一）包谷糁 红豆稀饭</view> <view class="big_text">小吃类（六小份）煎鸡蛋 葱花饼 肉夹馍 小糖糕 油条 小花卷</view> <view class="big_text">小菜（四选二）线辣子炒鸡蛋 酸辣土豆丝 酸辣白菜 炒玫瑰菜</view> 
+  </view>
+</view>
+
+
+<view class="background_card" >
+  <view><view class="title_text">老潼关肉夹馍</view></view>
+  <view class="dishes_name">
+    <view class="big_text">老潼关花干鸡蛋夹馍</view> <view class="big_text">宝鸡擀面皮</view> <view class="big_text">红油米皮</view> <view class="big_text">红油凉皮</view> <view class="big_text">骨汤馄饨</view> <view class="big_text">老潼关肉夹馍（肥瘦）</view> <view class="big_text">老潼关肉夹馍（纯瘦）</view>
+  </view>
+  <view class=".dishes_price">
+    <view>5元</view> <view>5元</view> <view>5元</view> <view>5元</view> <view>5元</view> <view>8元</view> <view>10元</view>
+  </view>
+</view>
+
+
+<view class="background_card" >
+  <view><view class="title_text">营养早餐（自选4个菜）</view></view>
+  <view class="dishes_name">
+   <view class="big_text">五仁酱菜 辣椒圈 海带丝 红萝卜丝 包菜丝 豆皮丝 土豆丝 锅巴 青椒丝</view>  
+  </view>
+  <view class=".dishes_price">
+    <view>荷叶饼夹馍：3.0元/个</view> <view>    </view> <view>加荷包蛋/香肠：1.5元/个</view>
+  </view>
+</view>
+
+
+<view class="background_card" >
+  <view><view class="title_text">精品花荤</view></view>
+  <view class="dishes_name">
+    <view class="big_text">西红柿炒蛋</view> <view class="big_text">培根金针菇</view> <view class="big_text">手工肉沫豆腐</view> <view class="big_text">香芹鱿鱼须</view> <view class="big_text">蒜苔炒猪耳</view> <view class="big_text">辣椒炒肥肠</view> <view class="big_text">线椒炒腊肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>2.5元</view> <view>3.5元</view>  <view>4.0元</view> <view>4.5元</view>  <view>5.0元</view> <view>5.0元</view>  <view>5.0元</view>
+  </view>
+</view>
+
+
+
+<view class="background_card" >
+  <view><view class="title_text">营养早餐</view></view>
+  <view class="dishes_name">
+    <view class="big_text">油条</view> <view class="big_text">麻圆</view> <view class="big_text">南瓜饼</view> <view class="big_text">火腿卷</view> <view class="big_text">韭菜饼</view> <view class="big_text">葱花饼</view> <view class="big_text">鸡蛋饼卷土豆丝</view> <view class="big_text">鸡蛋饼卷香肠</view> <view class="big_text">汉堡夹青椒鸡蛋</view> <view class="big_text">汉堡夹三明治鸡蛋</view>
+  </view>
+  <view class=".dishes_price">
+    <view>1.0元/根</view> <view>1.5元/个</view> <view>1.5元/个</view> <view>1.5元/个</view> <view>2.0元/个</view> <view>2.0元/个</view> <view>2.0元/个</view> <view>2.0元/个</view> <view>2.0元/个</view> <view>2.5元/个</view>
+  </view>
+</view>
+
+
+
+<view class="background_card" >
+  <view><view class="title_text">铁锅炒鸡米饭1——早餐广东肠粉</view></view>
+  <view class="dishes_name">
+    <view class="big_text">肠粉</view> <view class="big_text"></view> 
+    <view class="big_text">加鸡蛋</view> <view class="big_text"></view> 
+    <view class="big_text">加肉沫</view> <view class="big_text"></view> 
+    <view class="big_text">加玉米粒</view> <view class="big_text"></view> 
+    <view class="big_text">加火腿丁</view> <view class="big_text"></view> 
+  </view>
+  <view class=".dishes_price">
+    <view>6元</view> <view>1元</view> <view>1元</view> <view>1元</view> <view>1元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">铁锅炒鸡米饭2</view></view>
+  <view class="dishes_name">
+    <view class="big_text">金牌麻辣炒鸡</view> <view class="big_text">椒麻炒鸡</view> 
+    <view class="big_text">招牌酱香炒鸡</view> <view class="big_text">秘制香辣炒鸡</view> 
+    <view class="big_text">黄金酸辣炒鸡</view> <view class="big_text">养生菌菇炒鸡</view> 
+    <view class="big_text">养生板栗炒鸡</view> <view class="big_text">韩式照烧鸡腿饭</view> 
+    <view class="big_text">咖喱香酥鸡排饭</view> <view class="big_text">麻辣啵啵鱼</view> 
+    <view class="big_text">番茄啵啵鱼</view> <view class="big_text">酸菜啵啵鱼</view> 
+    <view class="big_text">黑椒啵啵鱼</view> <view class="big_text">双椒啵啵鱼</view>    <view class="big_text">三鲜啵啵鱼</view> <view class="big_text">香辣啵啵鱼</view> 
+    <view class="big_text">柠檬啵啵鱼</view>
+  </view>
+  <view class=".dishes_price">
+    <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>15元</view> <view>12元</view> <view>12元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">馋嘴泡泡鸡（米饭小份减0.5元）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">魔力黑椒鸡 黑椒口味</view> <view class="big_text">川渝麻辣鸡 麻辣口味</view> <view class="big_text">田园圣女鸡 番茄口味</view> <view class="big_text">印度吉尼鸡 咖喱口味</view> <view class="big_text">热血健酱鸡 酱香口味</view> <view class="big_text">炒鸡麻丽鸡 藤椒口味</view>
+  </view>
+  <view class=".dishes_price">
+    <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>13元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">天津小笼包（每笼8个，可拼笼 可零售，零售约0.88元/个）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">鲜肉包子</view> <view class="big_text">香菇白菜包子</view> 
+    <view class="big_text">茄子青椒包子</view> <view class="big_text">雪菜肉丝包子</view> 
+    <view class="big_text">韭菜鸡蛋包子</view> <view class="big_text">豆沙包子</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>7元</view> <view>7元</view> <view>7元</view> <view>7元</view> <view>7元</view> <view>7元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">菜园坊麻辣烫</view></view>
+  
+  <view class=".dishes_price">
+    <view>1.38元/50克</view> 
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">韩国石锅饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">蔬菜石锅</view> <view class="big_text">辣白菜五花肉石锅</view> 
+    <view class="big_text">鱼豆腐蔬菜石锅</view> <view class="big_text">牛肉石锅</view> 
+    <view class="big_text">五花肉石锅</view> <view class="big_text">鸡肉石锅</view> 
+    <view class="big_text">培根金针菇石锅</view> <view class="big_text">韩国炒年糕</view> 
+    <view class="big_text">紫菜包饭</view> <view class="big_text">韩国鸡排饭</view> 
+    <view class="big_text">韩国鸡腿饭</view> <view class="big_text">大酱汤</view> 
+    <view class="big_text">泡菜汤</view> <view class="big_text">海带汤</view> <view class="big_text">韩国豆腐汤</view>
+  </view>
+  <view class=".dishes_price">
+    <view>10元</view> <view>12元</view> <view>10元</view> <view>15元</view> <view>12元</view> <view>12元</view> <view>12元</view> <view>12元</view> <view>10元</view> <view>13元</view> <view>13元</view> <view>12元</view>  <view>12元</view>  <view>10元</view>  <view>12元</view>
+    </view>
+  </view>
+
+<view class="background_card" >
+  <view><view class="title_text">蛋包饭（鸡米花、鸡排、洋葱圈、鸡块 4选1）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">什锦蛋包饭</view> <view class="big_text">黑椒蛋包饭</view> 
+    <view class="big_text">番茄蛋包饭</view> <view class="big_text">咖喱蛋包饭</view> 
+    <view class="big_text">麻辣蛋包饭</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>9元</view> <view>11元</view> <view>11元</view> <view>11元</view> <view>11元</view> 
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">美润大肚水饺1大馅水饺（大份 12元/20只，小份 9元/15只）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">香菇鲜肉水饺</view> <view class="big_text">芹菜鲜肉水饺</view> 
+    <view class="big_text">三鲜鲜肉水饺</view> <view class="big_text">纯猪肉水饺</view> 
+    <view class="big_text">全家福大拼盘</view> <view class="big_text">鲜肉大馄饨</view> 
+    <view class="big_text"></view>荠菜肉大馄饨 <view class="big_text">鲜肉小馄饨</view> 
+    <view class="big_text">莲菜鲜肉水饺</view> <view class="big_text">韭菜鲜肉水饺</view> 
+    <view class="big_text">玉米鲜肉水饺</view> <view class="big_text">大葱鲜肉水饺</view> 
+    <view class="big_text">韭菜鸡蛋水饺</view> <view class="big_text">酸菜肉水饺</view> <view class="big_text">豆角肉水饺</view> <view class="big_text">金针菇肉水饺</view> <view class="big_text">黑芝麻汤圆（7元15个只/份）</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">美润大肚水饺2（大份 25元/19只，小份 20元/15只）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">牛肉水饺</view> <view class="big_text">羊肉水饺</view> 
+    <view class="big_text">酸菜鱼水饺</view> <view class="big_text">玉米虾仁水饺</view> 
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">小龙虾米饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">剥好的小龙虾</view> <view class="big_text">狮子头拼小龙虾</view> 
+    <view class="big_text">仔鸡饭小龙虾</view> <view class="big_text">仔鸡饭</view> 
+    <view class="big_text">烧肉饭（五花肉）</view> <view class="big_text">招牌蟹黄饭</view> 
+    <view class="big_text">嫩汁鸡排饭</view> <view class="big_text">三文治蟹黄饭</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>17元</view> <view>14元</view> <view>14元</view> <view>12元</view> <view>15元</view> <view>9元</view> <view>13元</view> <view>11元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">煎饼果子</view></view>
+  <view class="dishes_name">
+    <view class="big_text">夹鸡蛋夹菜</view> <view class="big_text">夹鸡柳</view> 
+    <view class="big_text">夹培根</view> <view class="big_text">夹火腿片</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>5元</view> <view>7元</view> <view>7元</view> <view>7元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">花甲粉</view></view>
+  <view class="dishes_name">
+    <view class="big_text">香辣花甲粉/面</view> <view class="big_text">蒜蓉花甲粉/面</view> 
+    <view class="big_text">三鲜花甲粉/面</view> <view class="big_text">酸辣小酥肉粉/面</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>10元</view> <view>10元</view> <view>10元</view> <view>11元</view> 
+  </view>
+</view>
+
+
+
+<view class="background_card" >
+  <view><view class="title_text">汁音生煎</view></view>
+  <view class="dishes_name">
+    <view class="big_text">招牌生煎包</view> <view class="big_text">猪肉生煎饺</view> <view class="big_text">牛肉生煎饺</view> <view class="big_text">鲜肉小笼包</view> <view class="big_text">豆沙圆子羹</view> <view class="big_text">绿豆汤</view> <view class="big_text">银耳羹</view> <view class="big_text">现磨豆浆</view> <view class="big_text">韭菜蒸饺</view> <view class="big_text">紫薯窝窝头</view> <view class="big_text">香菇烧麦</view> <view class="big_text">玉米红豆馍</view> <view class="big_text">红糖馒头</view> <view class="big_text">八珍糯米包</view>
+  </view>
+  <view class=".dishes_price">
+    <view>1.5元/个</view> <view>4元/份</view> <view>5元/份</view> <view>6元/份</view> <view>4元/份</view> <view>2元/份</view> <view>2元/份</view> <view>2元/份</view> <view>1.5元/份</view> <view>1元/份</view> <view>1.5元/份</view> <view>1.5元/份</view> <view>1元/份</view> <view>元/份</view> <view>2元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">双拼系列</view></view>
+  <view class="dishes_name">
+    <view class="big_text">牛肉拼鸡扒</view> <view class="big_text">牛肉拼茄子</view> 
+    <view class="big_text">鸡扒拼茄子</view> <view class="big_text">重庆小酥肉</view> 
+    <view class="big_text">可乐鸡饭</view> <view class="big_text">梅菜烧肉饭</view> 
+    <view class="big_text">黑椒鸡扒饭</view> <view class="big_text">江西酒糟鱼</view> 
+    <view class="big_text">土豆酱肉饭</view> <view class="big_text">巴西烤香鸡</view> 
+    <view class="big_text">肉末茄子饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>15元</view> <view>14元</view> <view>12元</view> <view>14元</view> <view>14元</view> <view>14元</view> <view>13元</view> <view>13元</view> <view>13元</view> <view>12元</view> <view>13元</view> <view>10元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">关公饼</view></view>
+  <view class="dishes_name">
+    <view class="big_text">油酥饼</view> <view class="big_text">酱香饼</view> 
+    <view class="big_text">青椒饼</view> <view class="big_text">鸡蛋饼</view> 
+    <view class="big_text">菜饼</view> <view class="big_text">土豆丝夹馍</view> 
+    <view class="big_text">辣子夹馍</view> <view class="big_text">孜然肉夹馍</view> 
+    <view class="big_text">鸡蛋火腿饼</view> <view class="big_text">饼加鸡排</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>1.5元</view> <view>1.5元</view> <view>2元</view> <view>2元</view> <view>2.5元</view> <view>2.5元</view> <view>3元</view> <view>4元</view> <view>4元</view> <view>5.5元</view>
+  </view>
+</view>
+
+
+
+<view class="background_card" >
+  <view><view class="title_text">新疆炒米粉1（米粉类）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">鸡肉炒米粉</view> <view class="big_text">蟹排炒米粉</view> 
+    <view class="big_text">鱼豆腐炒米粉</view> <view class="big_text">火腿炒米粉</view> 
+    <view class="big_text">酱香炒米粉</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>14元</view> <view>13元</view> <view>12元</view> <view>11元</view> <view>10元</view> 
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">新疆炒米粉2（馕粉对半）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">鸡肉炒对半</view> <view class="big_text">蟹排炒对半</view> 
+    <view class="big_text">火腿炒对半</view> <view class="big_text">鱼豆腐炒对半</view> 
+    <view class="big_text">酱香炒对半</view>
+  </view>
+  <view class=".dishes_price">
+    <view>14元</view> <view>13元</view> <view>11元</view> <view>12元</view> <view>10元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">港式烧鸭饭（米饭小份减0.5元）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">鸭腿饭</view> <view class="big_text">广式香肠饭</view> 
+    <view class="big_text">香辣鸡腿饭</view> <view class="big_text">叉烧饭</view> 
+    <view class="big_text">卤肉双拼饭</view> <view class="big_text"> 其余双拼</view> 
+    <view class="big_text">鹅腿双拼</view>
+  </view>
+  <view class=".dishes_price">
+    <view>10元</view> <view>10元</view> <view>11元</view> <view>12元</view> <view>13元</view> <view>13元</view> <view>13元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">重庆小面1（早点）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">水煎包</view> <view class="big_text">卤蛋</view> 
+    <view class="big_text">河南胡辣汤</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>1元/2个</view> <view>1.5元/个</view> <view>4元/份</view> 
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">重庆小面2（中晚餐）（小份减1元）</view></view>
+  <view class="dishes_name">
+    <view class="big_text">凉面</view> <view class="big_text">西红柿鸡蛋面</view> 
+    <view class="big_text">重庆小面</view> <view class="big_text">卤面</view> 
+    <view class="big_text">鸡杂面</view> <view class="big_text">肉臊子干拌面</view> 
+    <view class="big_text">炸酱小面</view> <view class="big_text">肥肠小面</view> 
+    <view class="big_text">牛肉小面</view> <view class="big_text">加鸡蛋</view> <view class="big_text">加火腿</view> <view class="big_text">加肉臊子</view>
+  </view>
+  <view class=".dishes_price">
+    <view>5元/份</view> <view>6元/份</view> <view>7元/份</view> <view>7元/份</view>  <view>8元/份</view> <view>8元/份</view>  <view>9元/份</view> <view>10元/份</view>  <view>10元/份</view> <view>1.5元</view> <view>1元</view>  <view>3元</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">母鸡汤泡饼</view></view>
+  <view class="dishes_name">
+    <view class="big_text">麦香酥油饼</view> <view class="big_text">美味母鸡汤</view> 
+    <view class="big_text">母鸡汤加蛋</view> <view class="big_text">紫菜蛋花汤</view> 
+    <view class="big_text">鸡汤米线</view> <view class="big_text">肉丸母鸡汤</view> 
+    <view class="big_text">肉丸母鸡汤</view>
+  </view>
+  <view class=".dishes_price">
+    <view>（2元 3元 5元）/份</view> <view>4元/碗</view> <view>5元/碗</view> <view>5元/碗</view> <view>7元/碗</view> <view>6元/小碗</view> <view>7元/大碗</view>
+  </view>
+</view>
+

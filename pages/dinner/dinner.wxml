@@ -1,0 +1,73 @@
+<!--pages/dinner/dinner.wxml-->
+<!-- <view class="headbag">
+<view class="fangtupian">
+  <image  src="https://www.xiaohongshu.com/discovery/item/6141dea3000000000102bf1b?source=question"></image>
+</view>
+<view class="fangwenzi"> -->
+
+
+<!-- <image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/pircture/dinner_picture1.jpeg"/>
+
+<view class="container">
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer1.jpeg" />
+  <van-button  color="#F8B400" round type="info">丁香一楼</van-button>
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer2.jpeg" />
+  <van-button  color="#F8B400" round type="info">丁香二楼</van-button>
+
+
+</view>
+<image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/pircture/dinner_picture2.jpeg"/>
+
+<view class="container">
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer5.jpeg" />
+  <van-button  color="#F8B400" round type="info">海棠一楼</van-button>
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer6.jpeg" />
+  <van-button  color="#F8B400" round type="info">海棠二楼</van-button>
+
+
+</view>
+<image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/pircture/dinner_picture3.jpeg"/>
+
+<view class="container">
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer3.jpeg" />
+  <van-button  color="#F8B400" round type="info">竹园一楼</van-button>
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer4.jpeg" />
+  <van-button  color="#F8B400" round type="info">竹园二楼</van-button>
+
+
+</view>
+
+
+
+
+
+             
+            
+
+
+
+<!-- <image src="http://src.sotu114.com/data/attachment/forum/201909/02/231111sxci7f7hxu77iu30.item.jpg-ture"  lazy-load="{{ false }}"  webp="{{ false }}"  show-menu-by-longpress="{{ true }}"  mode="aspectFit"   style="position: relative; left: -169rpx; top: -52rpx; width: 338rpx; height: 317rpx; display: block; box-sizing: border-box" /> -->
+
+ <view class="shuipingde">
+    <view class="shuzhide">
+      <image class="large" src="../../images/xduer/xduer3.jpeg"></image>
+      <image  class="large" src="../../images/xduer/xduer5.jpeg"></image>
+    </view>
+    <view class="shuzhide2">
+      <image class="mid" src="../../images/pircture/dinner_picture2.jpeg"></image>
+      <view class="shuipingde1">
+        <van-button bindtap="xinzonghelou" color="#F8B400" round type="info">新综合楼</van-button>
+        <van-button bindtap="xinzonghelou" color="#F8B400" round type="info">新综合楼待开发</van-button>
+      </view>
+      <image src="../../images/pircture/dinner_picture3.jpeg" class="mid"></image>
+      <view class="shuipingde1">
+        <van-button bindtap="laozonghelou" color="#F8B400" round type="info">老综合楼</van-button>
+        <van-button bindtap="laozonghelou" color="#F8B400" round type="info">老综合楼待开发</van-button>
+      </view>
+    </view>
+ </view>
+ 
+
+
+
+

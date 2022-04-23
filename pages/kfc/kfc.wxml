@@ -1,0 +1,69 @@
+<!--pages/kfc/kfc.wxml-->
+<!-- <view class="divide_card">
+  <image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/divide_images/divide_1.png"/>
+  <image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/divide_images/divide_2.png"/>
+</view>
+<view class="divide_card">
+  <van-button  color="#F8B400" round type="info">火锅冒菜</van-button> 
+  <van-button  color="#F8B400" round type="info">好喝饮品</van-button>
+  </view>
+<view class="divide_card">
+  <image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/divide_images/divide_3.png"/>
+  <image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/divide_images/divide_4.png"/>
+
+</view>
+<view class="divide_card">
+  <van-button  color="#F8B400" round type="info">米粉面食</van-button> 
+  <van-button  color="#F8B400" round type="info">汉堡炸鸡</van-button>
+  </view>
+<view class="divide_card">
+  <image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/divide_images/divide_5.png"/>
+  <image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/divide_images/divide_6.png"/>
+
+</view>
+<view class="divide_card">
+  <van-button  color="#F8B400" round type="info">米饭快餐</van-button> 
+  <van-button  color="#F8B400" round type="info">饺子云吞</van-button>
+  </view>
+<view class="divide_card">
+  <image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/divide_images/divide_7.png"/>
+  <image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/divide_images/divide_8.png"/>
+
+</view>
+<view class="divide_card">
+  <van-button  color="#F8B400" round type="info">实惠优选</van-button> 
+  <van-button  color="#F8B400" round type="info">高赞菜品</van-button>
+  </view> -->
+ 
+
+
+<image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/pircture/dinner_picture1.jpeg"/>
+
+<view class="container">
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer1.jpeg" />
+  <van-button  bindtap="dingxiang_1" color="#F8B400" round type="info">丁香一楼</van-button>
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer2.jpeg" />
+  <van-button  bindtap="dingxiang_2" color="#F8B400" round type="info">丁香二楼</van-button>
+
+
+</view>
+<image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/pircture/dinner_picture2.jpeg"/>
+
+<view class="container">
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer5.jpeg" />
+  <van-button  bindtap="haitang_1" color="#F8B400" round type="info">海棠一楼</van-button>
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer6.jpeg" />
+  <van-button   bindtap="haitang_2" color="#F8B400" round type="info">海棠二楼</van-button>
+
+
+</view>
+<image mode="scaleToFill"  class="large"  style="position: relative; " src="../../images/pircture/dinner_picture3.jpeg"/>
+
+<view class="container">
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer3.jpeg" />
+  <van-button  bindtap="zhuyuan_1" color="#F8B400" round type="info">竹园一楼</van-button>
+  <image style="position:relative; "   class="small" src="../../images/xduer/xduer4.jpeg" />
+  <van-button  bindtap="zhuyuan_2" color="#F8B400" round type="info">竹园二楼</van-button>
+
+
+</view>

@@ -1,0 +1,32 @@
+/* pages/dingxiang_2/dingxaing_2.wxss *//* pages/about us/aboust us.wxss */
+page{
+  background-color: gainsboro;
+}
+
+.background_card{
+  background-color: white;
+  border-radius: 20rpx;
+}
+.dishes_name{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+.title_text{
+  color:#608ebf;
+  font-weight: bold;
+  font-size: large;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.big_text{
+  color:#608ebf;
+  font-weight: bold;
+}
+.dishes_price{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 10px;
+}

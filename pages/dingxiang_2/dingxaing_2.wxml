@@ -1,0 +1,751 @@
+<view class="background_card" >
+  <view><view class="title_text">香辣炸鸡饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">照烧炸鸡饭</view> <view class="big_text">孜然炸鸡饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥11元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">黑椒炸鸡饭</view> <view class="big_text">叉烧炸鸡饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥11元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">麻辣炸鸡饭</view> <view class="big_text">番茄炸鸡饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥11元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">沙拉炸鸡饭</view> <view class="big_text">蜜汁炸鸡饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥11元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">干锅系列改良版</view></view>
+  <view class="dishes_name">
+    <view class="big_text">干锅椒香鱼柳</view> <view class="big_text">干锅孜然羊肉卷</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥15元/份</view> <view>¥15元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">干锅黑椒牛柳</view> <view class="big_text">干锅大刀五花肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥14元/份</view> <view>¥14元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">干锅锅包肉</view> <view class="big_text">干锅小酥肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">干锅咖喱鸡米花</view> <view class="big_text">干锅辣子鸡</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">瓦香鸡米饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">瓦香鸡</view> <view class="big_text">瓦香炒烤肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">瓦香脆骨</view> <view class="big_text">瓦香腊肠</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">瓦香千页豆腐</view> <view class="big_text">瓦香土豆片</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥9元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">瓦香鱼豆腐</view> <view class="big_text">瓦香腊肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥14元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">无骨烤鱼捞饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">巴蜀麻辣孜然烤鱼捞饭</view> <view class="big_text">香辣无骨烤鱼</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥16元/份</view> <view>¥16元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">蒜香无骨烤鱼捞饭</view> <view class="big_text">番茄烤鱼捞饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥16元/份</view> <view>¥16元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">鸡汁菌菇烤鱼</view> <view class="big_text">剁椒无骨鱼</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥16元/份</view> <view>¥16元/份</view>
+
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">手工菠菜面手工拉条子</view></view>
+  <view class="dishes_name">
+    <view class="big_text">臊子油泼面</view> <view class="big_text">西红柿鸡蛋面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">剁椒面</view> <view class="big_text">炸酱面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥9元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">肘子拌面</view> <view class="big_text">瘦肉干拌面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥12元/份</view> <view>¥9元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">三合一</view> <view class="big_text">二合一</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥9元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">精品川菜</view></view>
+  <view class="dishes_name">
+    <view class="big_text">红烧茄子</view> <view class="big_text">西红柿鸡蛋</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥10元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">农家小炒肉</view> <view class="big_text">土豆丝炒肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">包菜炒肉</view> <view class="big_text">宫保鸡丁</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">腐竹炒肉</view> <view class="big_text">粉条炒肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">川香爆五花</view> <view class="big_text">鱼香肉丝</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥15元/份</view> <view>¥13元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">豆芽炒菜</view> <view class="big_text">哈哈鸡</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥15元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">时蔬炒肉</view> <view class="big_text">香干炒肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">小炒猪肝</view> <view class="big_text">水煮肉片</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥15元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">糖醋里脊</view> <view class="big_text">菌菇炒肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">麻辣香锅</view></view>
+  <view class="dishes_name">
+    <view class="big_text">麻辣香锅（现炒）</view> 
+  </view>
+  <view class=".dishes_price">
+    <view>¥8.3元/250g</view> 
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">米粉遇见饼</view></view>
+  <view class="dishes_name">
+    <view class="big_text">三鲜米粉</view> <view class="big_text">麻辣米粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥6元/份</view> <view>¥6元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">酸辣米粉</view> <view class="big_text">土豆片米粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥6元/份</view> <view>¥7元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">酸菜米粉</view> <view class="big_text">莲菜米粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥7元/份</view> <view>¥7元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">竹笋米粉</view> <view class="big_text">金针菇米粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥7元/份</view> <view>¥7元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">火腿米粉</view> <view class="big_text">鱼豆腐米粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">肥肠米粉</view> <view class="big_text">酸豆角肉沫米粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥9元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">牛肉米粉</view> <view class="big_text">培根米粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥9元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">鸡肉丝米粉</view> <view class="big_text">特色肥牛米粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥10元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">秘制鸡块米粉</view> <view class="big_text">金牌鲜肉烧饼</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥5元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">胖胖烤肉饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">锡纸烤鸡</view> <view class="big_text">香辣鸡排饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥15元/份</view> <view>¥12元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">培根饭</view> <view class="big_text">烤鸡腿饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11/9元/份</view> <view>¥12/10元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">汉森肉排饭</view> <view class="big_text">烤鸭腿饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥13元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">香辣烤脆骨</view> <view class="big_text"></view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view></view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">鲜味铁板炒饭 炒细面</view></view>
+  <view class="dishes_name">
+    <view class="big_text">黑椒牛肉炒饭</view> <view class="big_text">咖喱鸡肉炒饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥14元/份</view> <view>¥12元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">孜然蛋炒饭</view> <view class="big_text">扬州炒饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥10元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">回锅肉炒饭</view> <view class="big_text">虾仁蛋炒饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥12元/份</view> <view>¥13元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">鸡蛋火腿炒饭</view> <view class="big_text">老干妈炒饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥9元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">蛋炒细面</view> <view class="big_text">蛋炒米粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥9元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">蛋炒饼丝</view> <view class="big_text">回锅肉炒面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥12元/份</view>
+  
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">铁板系列</view></view>
+  <view class="dishes_name">
+    <view class="big_text">铁板肉末茄子</view> <view class="big_text">铁板鱼豆腐</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥10元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">铁板土豆片</view> <view class="big_text">铁板五花肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥14元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">铁板土匪猪肝</view> <view class="big_text">铁板鸡肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥12元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">铁板京酱鸭片</view> <view class="big_text">铁板孜然肉片</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥14元/份</view> <view>¥12元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">铁板千页豆腐</view> <view class="big_text">铁板咖喱鸡饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥12元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">铁饭杏鲍菇牛肉</view> <view class="big_text">铁板葱香羊肉卷</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥15元/份</view> <view>¥15元/份</view>
+  
+  
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">川味锅巴饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">三素</view> <view class="big_text">一荤二素</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥10元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">一荤三素</view> <view class="big_text">两荤一素</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥11元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">两荤两素</view> <view class="big_text">三荤一素</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥12元/份</view> <view>¥13元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">四荤</view> <view class="big_text"></view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥14元/份</view> <view></view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">手工水饺</view></view>
+  <view class="dishes_name">
+    <view class="big_text">韭菜大肉馅</view> <view class="big_text">芹菜大肉馅</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥10元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">白菜大肉馅</view> <view class="big_text">韭菜鸡蛋馅</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥9元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">猪肉大葱馅</view> <view class="big_text">牛肉大葱馅</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥12元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">煲仔饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">黑椒鸡肉煲仔饭</view> <view class="big_text">香菇滑鸡煲仔饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥11元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">风干牛肉煲仔饭</view> <view class="big_text">咖喱鸡块煲仔饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥14元/份</view> <view>¥12元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">辣味双拼煲仔饭</view> <view class="big_text">五味叉烧煲仔饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥12元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">碳烤五花肉</view> <view class="big_text">广式腊肠煲仔饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥13元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">开心锅仔</view></view>
+  <view class="dishes_name">
+    <view class="big_text">锅仔鱼丸</view> <view class="big_text">锅仔腊肠</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥11元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">锅仔肥羊</view> <view class="big_text">锅仔培根</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥12元/份</view> <view>¥10元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">锅仔鸡块</view> <view class="big_text">锅仔牛肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥13元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">锅仔鱼豆腐</view> <view class="big_text">锅仔虾饺</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥11元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">金剪子剪刀面</view></view>
+  <view class="dishes_name">
+    <view class="big_text">排骨剪刀面</view> <view class="big_text">鸡块剪刀面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥15元/份</view> <view>¥12元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">杂菌剪刀面</view> <view class="big_text">原糖剪刀面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥8元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">牛肉剪刀面</view> <view class="big_text">卤蛋</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥15元/份</view> <view>¥1.5元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">湖南蒸碗</view></view>
+  <view class="dishes_name">
+    <view class="big_text">蒸水蛋</view> <view class="big_text">麻辣豆腐</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥2元/份</view> <view>¥3元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">风味腊肠</view> <view class="big_text">火腿炒蛋</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥4元/份</view> <view>¥5元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">双椒鸡块</view> <view class="big_text">毛氏红烧肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">西红柿炒蛋</view> <view class="big_text">四季时蔬</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥3元/份</view> <view>¥3元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">酸豆角肉末</view> <view class="big_text">啤酒鸭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥4元/份</view> <view>¥8元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">辣子鸡</view> <view class="big_text">青椒茄子</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥3元/份</view> 
+  </view><view class="dishes_name">
+    <view class="big_text">手撕包菜</view> <view class="big_text">农家小炒肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥3元/份</view> <view>¥4元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">香甜南瓜</view> <view class="big_text">四喜丸子</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥4元/份</view> <view>¥6元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">麻辣肥牛</view> <view class="big_text">梅菜扣肉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">台式卤肉饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">剁椒排骨拌饭</view> <view class="big_text">剁椒狮子头饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥16元/份</view> <view>¥12元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">剁椒卤肉饭</view> <view class="big_text">剁椒翅根饭</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">剁椒香肠饭</view> <view class="big_text"></view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view> </view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">黄焖鸡米饭</view></view>
+  <view class="dishes_name">
+    <view class="big_text">黄焖鸡</view> <view class="big_text">黄焖肥牛</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥12元/份</view> <view>¥12元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">黄焖肉片</view> <view class="big_text">黄焖纯菜</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥12元/份</view> <view>¥10元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">黄焖小酥肉</view> <view class="big_text">黄焖丸子</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥13元/份</view> <view>¥13元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">兰州拉面</view></view>
+  <view class="dishes_name">
+    <view class="big_text">牛肉拉面</view> <view class="big_text">葱油拌面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">西红柿鸡蛋面</view> <view class="big_text">香菇肉丝面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥9元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">酸菜牛肉面</view> <view class="big_text">红烧牛肉面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥10元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">土豆鸡块拌面</view> <view class="big_text">大盘鸡拌面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥12元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">鲜肉小馄饨</view></view>
+  <view class="dishes_name">
+    <view class="big_text">大份</view> <view class="big_text">小份</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥6元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">肉夹馍</view> <view class="big_text">瘦肉夹馍</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥5元/份</view> <view>¥6元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">豆腐皮海带夹馍</view> <view class="big_text">卤蛋</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥3元/份</view> <view>¥1.5元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">螺蛳粉</view></view>
+  <view class="dishes_name">
+    <view class="big_text">招牌原味螺蛳粉</view> <view class="big_text">干拌螺蛳粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥7元/份</view> <view>¥6元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">豆干/香肠/虎皮鸡蛋/青菜</view> <view class="big_text"></view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥2元/份</view> <view></view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">豆泡/腐竹/酸笋/木耳丝</view> <view class="big_text"></view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥3元/份</view> <view></view>
+  </view><view class="dishes_name">
+    <view class="big_text">牛肉/叉烧/肥肠</view> <view class="big_text"></view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥5元/份</view> <view></view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">湖南米粉</view></view>
+  <view class="dishes_name">
+    <view class="big_text">素粉</view> <view class="big_text">酸辣粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥6元/份</view> <view>¥6元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">雪菜粉</view> <view class="big_text">榨菜粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">炸酱粉</view> <view class="big_text">牛肉粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥9元/份</view> <view>¥11元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">叉烧粉</view> <view class="big_text">肥肠粉</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥11元/份</view> <view>¥11元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">砂锅</view></view>
+  <view class="dishes_name">
+    <view class="big_text">砂锅米线</view> <view class="big_text">砂锅龙须面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">砂锅土豆粉</view> <view class="big_text">砂锅粉丝</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">砂锅方便面</view> <view class="big_text">砂锅刀削面</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">砂锅麻什</view> <view class="big_text">砂锅纯菜</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥8元/份</view> <view>¥8元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">云南过桥米线</view></view>
+  <view class="dishes_name">
+    <view class="big_text">优质过桥米线</view> <view class="big_text">普通过桥米线</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥12元/份</view> <view>¥8元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">酸菜肉丝米线</view> <view class="big_text">剁椒肉米线</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥10元/份</view> <view>¥10元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">培根米线</view> <view class="big_text">牛肉米线</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥12元/份</view> <view>¥12元/份</view>
+  </view><view class="dishes_name">
+    <view class="big_text">三鲜米线</view> <view class="big_text">麻辣米线</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥6元/份</view> <view>¥6元/份</view>
+  </view>
+</view>
+
+<view class="background_card" >
+  <view><view class="title_text">鸡汤泡饼</view></view>
+  <view class="dishes_name">
+    <view class="big_text">优质鸡汤</view> <view class="big_text">普通鸡汤</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥4元/份</view> <view>¥3元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">紫菜虾皮汤</view> <view class="big_text">丸子汤</view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥3元/份</view> <view>¥6元/份</view>
+  </view>
+  <view class="dishes_name">
+    <view class="big_text">汤圆</view> <view class="big_text"></view>
+  </view>
+  <view class=".dishes_price">
+    <view>¥5元/份</view> <view></view>
+ 
+  </view>
+</view>
+
